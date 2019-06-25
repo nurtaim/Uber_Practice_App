@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399533236477",
+    "firebase_url": "https://bookmyride-7c20b.firebaseio.com",
+    "project_id": "bookmyride-7c20b",
+    "storage_bucket": "bookmyride-7c20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399533236477:android:c472915af575433e",
+        "android_client_info": {
+          "package_name": "com.Nurtai.BookMyRide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399533236477-222gnmd7rt8f8heof7979ks4qaslu0dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Nurtai.BookMyRide",
+            "certificate_hash": "6cd74a8a572e67b0207e71514e2ba369d1995c23"
+          }
+        },
+        {
+          "client_id": "399533236477-uca4d5rlapbih90boum5r41shatq2jd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQAph1XtMnw9gqO9OL_bEnyqbYDvnXJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399533236477-uca4d5rlapbih90boum5r41shatq2jd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
